@@ -1,2 +1,2 @@
 # ZealDemo
-Created repo fro git demo in zeal
+Created repo for git demo in zeal
